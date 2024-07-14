@@ -18,3 +18,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Figure out Github
+- [ ] Describe a basic use for github
+- [ ] Decide on use case for SQLlite or MySQL
+      
