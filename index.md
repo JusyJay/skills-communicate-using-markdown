@@ -6,3 +6,7 @@
 #### (h3) At quo minimum mentitum, an qui fugit atqui possit. 
 ##### (h5) Est tritani ponderum ut, ne ius efficiendi persequeris.
 ###### (h6) Eu novum eruditi eos, ut clita tation qualisque vis, cu sententiae elaboraret ius.
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
